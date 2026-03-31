@@ -5,6 +5,7 @@ assignment1/flutter_application_1/linux/** linguist-vendored
 assignment1/flutter_application_1/macos/** linguist-vendored
 assignment1/flutter_application_1/windows/** linguist-vendored
 assignment1/flutter_application_1/build/** linguist-vendored
+assignment1/flutter_application_1/web/** linguist-vendored
 assignment1/flutter_application_1/lib/** linguist-language=Dart
 assignment1/flutter_application_1/test/** linguist-language=Dart
 
@@ -14,5 +15,6 @@ assignment1/flutter2/flutter_application_2/linux/** linguist-vendored
 assignment1/flutter2/flutter_application_2/macos/** linguist-vendored
 assignment1/flutter2/flutter_application_2/windows/** linguist-vendored
 assignment1/flutter2/flutter_application_2/build/** linguist-vendored
+assignment1/flutter2/flutter_application_2/web/** linguist-vendored
 assignment1/flutter2/flutter_application_2/lib/** linguist-language=Dart
 assignment1/flutter2/flutter_application_2/test/** linguist-language=Dart
