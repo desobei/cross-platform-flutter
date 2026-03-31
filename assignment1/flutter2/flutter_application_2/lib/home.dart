@@ -54,13 +54,19 @@ class _HomeState extends State<Home> {
     final pages = [
       // TODO: Replace with Category Card
       Center(
-        child: ConstrainedBox(constraints: const BoxConstraints(maxWidth: 300), child: CategoryCard(category: categories[0]),),),
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: 300),
+          child: CategoryCard(category: categories[0]),
+        ),
+      ),
 
       // TODO: Replace with Post Card
-      Center(child: Padding(
-        padding: const EdgeInsets.all(16.0),
-        child: PostCard(post: posts[0]),
-      ),),
+      Center(
+        child: Padding(
+          padding: const EdgeInsets.all(16.0),
+          child: PostCard(post: posts[0]),
+        ),
+      ),
 
       // TODO: Replace with Restaurant Landscape Card
       Center(
@@ -77,7 +83,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         elevation: 4.0,
-        backgroundColor: Theme.of(context).colorScheme.background,
+        backgroundColor: Theme.of(context).colorScheme.surface,
         actions: [
           ThemeButton(
             changeThemeMode: widget.changeTheme,
@@ -88,7 +94,6 @@ class _HomeState extends State<Home> {
           ),
         ],
       ),
-      
 
       // TODO: Switch between pages
       body: IndexedStack(
