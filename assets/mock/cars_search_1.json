@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "carId": "model-s-plaid",
+      "title": "2025 Tesla Model S Plaid",
+      "image": "assets/images/cars/tesla_model_s_plaid.jpg",
+      "imageType": "jpg",
+      "tags": ["ev", "tesla", "performance", "awd", "track"]
+    },
+    {
+      "carId": "taycan-4s",
+      "title": "2024 Porsche Taycan 4S",
+      "image": "assets/images/cars/porsche_taycan_4s.jpg",
+      "imageType": "jpg",
+      "tags": ["ev", "luxury", "porsche", "fast charging"]
+    },
+    {
+      "carId": "bmw-i5",
+      "title": "2025 BMW i5 M60",
+      "image": "assets/images/cars/bmw_i5_m60.jpg",
+      "imageType": "jpg",
+      "tags": ["ev", "bmw", "sport sedan", "daily"]
+    }
+  ],
+  "offset": 0,
+  "number": 3,
+  "totalResults": 6
+}

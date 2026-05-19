@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "carId": "gle-450",
+      "title": "2025 Mercedes GLE 450",
+      "image": "assets/images/cars/mercedes_gle_450.jpg",
+      "imageType": "jpg",
+      "tags": ["suv", "luxury", "family", "comfort"]
+    },
+    {
+      "carId": "rs6-avant",
+      "title": "2024 Audi RS 6 Avant",
+      "image": "assets/images/cars/audi_rs6_avant.jpg",
+      "imageType": "jpg",
+      "tags": ["wagon", "track", "v8", "audi"]
+    },
+    {
+      "carId": "land-cruiser",
+      "title": "2025 Toyota Land Cruiser",
+      "image": "assets/images/cars/toyota_land_cruiser.jpg",
+      "imageType": "jpg",
+      "tags": ["suv", "off road", "family", "4wd"]
+    }
+  ],
+  "offset": 0,
+  "number": 3,
+  "totalResults": 6
+}
